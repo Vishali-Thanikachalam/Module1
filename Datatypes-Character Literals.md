@@ -9,15 +9,12 @@ To write a Python program that prints the characters `'T'` and `'a'` using chara
 
 ## 🧾 Program
 ```
-a=int(input())
-b=int(input())
-x=complex(a,b)
-print(x)
-print(x.real)
-print(x.imag)
+print('T')
+print('a')
 ```
 ## Output
-<img width="881" height="600" alt="image" src="https://github.com/user-attachments/assets/81b30c8b-bf99-438d-8874-37011fd836ee" />
+<img width="869" height="140" alt="image" src="https://github.com/user-attachments/assets/aac16f69-1373-4eb0-b7d4-0c951aaf1221" />
+
 
 ## Result
 Thus , the program has been executed succesfully.
